@@ -1,0 +1,33 @@
+#container{
+    width: 1000px;
+    min-height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: beige;
+}
+
+.redBox{
+    margin: 5px;
+    width: 90px;
+    height: 30px;
+    background-color: red;
+    float: left;
+    border-radius: 3px;
+}
+
+.greenBox{
+    margin: 5px;
+    width: 90px;
+    height: 30px;
+    background-color: green;
+    float: left;
+    border-radius: 3px;
+}
+
+#counter{
+    font-size: 18px;
+    font-family: "Lucida Console", sans-serif;
+    text-align: center;
+    clear: both;
+    padding: 30px;
+}
